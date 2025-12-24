@@ -35,6 +35,11 @@ Following a security audit, the xFusionCorp Industries security team has opted t
     SELINUX=disabled
     ```
 
+<img width="957" height="710" alt="image" src="https://github.com/user-attachments/assets/f82fff0b-3918-4035-9e39-486cc496f3db" />
+
+
+
+
 ## Good to Know?
 
 ### SELinux (Security-Enhanced Linux)
