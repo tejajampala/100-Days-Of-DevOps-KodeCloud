@@ -14,6 +14,15 @@ Following a security audit, the xFusionCorp Industries security team has opted t
    <img width="968" height="547" alt="image" src="https://github.com/user-attachments/assets/d4089a9e-56ae-4f85-b48a-d77ca8825d85" />
 
 
+   <img width="780" height="780" alt="image" src="https://github.com/user-attachments/assets/6e78b466-867b-4d09-b128-c022c9b0ae2f" />
+
+   <img width="840" height="642" alt="image" src="https://github.com/user-attachments/assets/e6f989d0-49c6-48f9-bacf-0d26d69f1f65" />
+
+
+   <img width="838" height="742" alt="image" src="https://github.com/user-attachments/assets/5bb380cd-dcc1-41b1-bd12-6968bdc752aa" />
+
+  
+
     ```sh
     sudo dnf install selinux-policy selinux-policy-targeted policycoreutils policycoreutils-python-utils
     ```
@@ -21,7 +30,7 @@ Following a security audit, the xFusionCorp Industries security team has opted t
     <img width="667" height="745" alt="image" src="https://github.com/user-attachments/assets/d07d6ab6-9801-4482-9898-c8a94012d04c" />
 
 
-2. Modify file in `/etc/selinux/config:
+1. Modify file in `/etc/selinux/config:
 
     
 
